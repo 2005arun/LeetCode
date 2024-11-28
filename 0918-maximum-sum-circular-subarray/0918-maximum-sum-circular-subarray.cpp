@@ -5,14 +5,6 @@ public:
         int cmax=0,cmin=0;
         int total=0;
         for(int i=0;i<nums.size();i++){
-            // total+=nums[i];
-            // if(cmax<0)cmax=nums[i];
-            // cmax=max(total,nums[i]);
-            // globalmax=max(globalmax,cmax);
-            
-            // if(cmin>0) cmin=nums[i];
-            // cmin=min(total,nums[i]);
-            // globalmin=min(globalmin,cmin);
             total+=nums[i];
             if(cmax<0) cmax=0;
             cmax+=nums[i];
@@ -24,6 +16,9 @@ public:
         }
         if(globalmax<0) return globalmax;
         return max(globalmax,total-globalmin);
+        
+        
+        
         // vector<int> res(nums.begin(),nums.end());
         // res.insert(res.end(),nums.begin(),nums.end());
         // int sum=0,maxsum=INT_MIN;
@@ -33,6 +28,9 @@ public:
         //     if(sum<0) sum=0;
         // }
         // return maxsum;
+        
+        
+        
         // int sum=0;
         // int maxsum=INT_MIN;
         // int minsum=INT_MAX;
