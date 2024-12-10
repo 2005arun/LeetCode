@@ -23,9 +23,5 @@ public:
             if(i>=k-1) vec.push_back(nums[dq.front()]);
         }
         return vec;
-
-        for(int i=0;i,nums.size();i++){
-            
-        }
     }
 };
