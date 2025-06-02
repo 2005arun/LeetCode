@@ -9,6 +9,7 @@
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,5 @@
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 <!---LeetCode Topics End-->
