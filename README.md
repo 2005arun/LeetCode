@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/2005arun/LeetCode/tree/master/0135-candy) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/2005arun/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
