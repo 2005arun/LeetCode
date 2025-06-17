@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/2005arun/LeetCode/tree/master/0135-candy) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
@@ -28,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/2005arun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/2005arun/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
