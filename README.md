@@ -14,6 +14,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/2005arun/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/2005arun/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/2005arun/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2005arun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/2005arun/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/2005arun/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2005arun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Math
 |  |
@@ -57,6 +59,7 @@
 | ------- |
 | [0135-candy](https://github.com/2005arun/LeetCode/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/2005arun/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2005arun/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/2005arun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2005arun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
