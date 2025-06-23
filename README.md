@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/2005arun/LeetCode/tree/master/0135-candy) |
+| [0416-partition-equal-subset-sum](https://github.com/2005arun/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/2005arun/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/2005arun/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/2005arun/LeetCode/tree/master/0070-climbing-stairs) |
+| [0416-partition-equal-subset-sum](https://github.com/2005arun/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Backtracking
 |  |
 | ------- |
