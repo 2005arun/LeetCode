@@ -9,7 +9,7 @@ public:
         set<int> st;
         for(int i=0;i<ind.size();i++){
             int a=(ind[i]-k) <0?0:(ind[i]-k);
-            int b=abs(ind[i]+k);
+            int b=ind[i]+k;
             for(int j=a;j<=b && j<nums.size();j++) st.insert(j);
         }
         vec.insert(vec.end(),st.begin(),st.end());
