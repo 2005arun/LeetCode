@@ -16,15 +16,24 @@ public:
                 cnt+=l;
             }
             else if(nums1[i]<0){
-                ll l=-1,r=nums2.size();
-                while(l+1<r){
+                ll l=0,r=nums2.size()-1;
+                while(l<=r){
                     ll m=l+(r-l)/2;
                     if((ll)nums1[i]*nums2[m] > mid){
-                        l=m;
+                        l=m+1;
                     }
-                    else r=m;
+                    else r=m-1;
                 }
-                cnt+=nums2.size()-r;
+                cnt+=nums2.size()-l;
+                // ll l=-1,r=nums2.size();
+                // while(l+1<r){
+                //     ll m=l+(r-l)/2;
+                //     if((ll)nums1[i]*nums2[m] > mid){
+                //         l=m;
+                //     }
+                //     else r=m;
+                // }
+                // cnt+=nums2.size()-r;
             }
             else{
                 if(0<=mid){
