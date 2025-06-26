@@ -57,6 +57,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/2005arun/LeetCode/tree/master/0022-generate-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/2005arun/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/2005arun/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/2005arun/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/2005arun/LeetCode/tree/master/0135-candy) |
+| [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/2005arun/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/2005arun/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
