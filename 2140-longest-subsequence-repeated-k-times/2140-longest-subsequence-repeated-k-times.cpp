@@ -18,10 +18,15 @@ public:
         queue<string> q;
         q.push("");
         string ans="";
+        vector<int> vec(26);
+        for(auto &i:s){
+            vec[i-'a']++;
+        }
         while(!q.empty()){
             string it=q.front();
             q.pop();
             for(char ch='a';ch<='z';ch++){
+                if(vec[ch-'a']<k) continue;
                 string temp=it+ch;
                 if(isexits(temp,s,k)){
                     q.push(temp);
