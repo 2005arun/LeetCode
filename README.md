@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/2005arun/LeetCode/tree/master/0135-candy) |
@@ -72,6 +73,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/2005arun/LeetCode/tree/master/0135-candy) |
 | [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/2005arun/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/2005arun/LeetCode/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/2005arun/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/2005arun/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
