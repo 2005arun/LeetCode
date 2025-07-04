@@ -13,6 +13,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/2005arun/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/2005arun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/2005arun/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/2005arun/LeetCode/tree/master/0022-generate-parentheses) |
+| [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/2005arun/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/2005arun/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
 <!---LeetCode Topics End-->
