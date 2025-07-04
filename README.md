@@ -138,6 +138,7 @@
 ## Stack
 |  |
 | ------- |
+| [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2005arun/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/2005arun/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Trie
 |  |
 | ------- |
@@ -196,4 +198,16 @@
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
+## Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
