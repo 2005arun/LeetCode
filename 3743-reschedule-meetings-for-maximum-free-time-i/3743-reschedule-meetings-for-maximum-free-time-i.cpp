@@ -1,51 +1,127 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+typedef long long LL;
+typedef pair<int,int> pii;
+typedef pair<LL,LL> pll;
+typedef pair<string,string> pss;
+typedef vector<int> vi;
+typedef vector<vi> vvi;
+typedef vector<pii> vii;
+typedef vector<LL> vl;
+typedef vector<vl> vvl;
+
+double EPS = 1e-9;
+int INF = 1000000005;
+long long INFF = 1000000000000000005LL;
+double PI = acos(-1);
+int dirx[8] = {-1,0,0,1,-1,-1,1,1};
+int diry[8] = {0,1,-1,0,-1,1,-1,1};
+
+#ifdef TESTING
+  #define DEBUG fprintf(stderr,"====TESTING====\n")
+  #define VALUE(x) cerr << "The value of " << #x << " is " << x << endl
+  #define debug(...) fprintf(stderr, __VA_ARGS__)
+#else
+  #define DEBUG 
+  #define VALUE(x)
+  #define debug(...)
+#endif
+
+#define FOR(a,b,c) for (int (a)=(b);(a)<(c);++(a))
+#define FORN(a,b,c) for (int (a)=(b);(a)<=(c);++(a))
+#define FORD(a,b,c) for (int (a)=(b);(a)>=(c);--(a))
+#define FORSQ(a,b,c) for (int (a)=(b);(a)*(a)<=(c);++(a))
+#define FORC(a,b,c) for (char (a)=(b);(a)<=(c);++(a))
+#define FOREACH(a,b) for (auto &(a) : (b))
+#define REP(i,n) FOR(i,0,n)
+#define REPN(i,n) FORN(i,1,n)
+#define MAX(a,b) a = max(a,b)
+#define MIN(a,b) a = min(a,b)
+#define SQR(x) ((LL)(x) * (x))
+#define RESET(a,b) memset(a,b,sizeof(a))
+#define fi first
+#define se second
+#define mp make_pair
+#define pb push_back
+#define ALL(v) v.begin(),v.end()
+#define ALLA(arr,sz) arr,arr+sz
+#define SIZE(v) (int)v.size()
+#define SORT(v) sort(ALL(v))
+#define REVERSE(v) reverse(ALL(v))
+#define SORTA(arr,sz) sort(ALLA(arr,sz))
+#define REVERSEA(arr,sz) reverse(ALLA(arr,sz))
+#define PERMUTE next_permutation
+#define TC(t) while(t--)
+
+inline string IntToString(LL a){
+  char x[100];
+  sprintf(x,"%lld",a); string s = x;
+  return s;
+}
+
+inline LL StringToInt(string a){
+  char x[100]; LL res;
+  strcpy(x,a.c_str()); sscanf(x,"%lld",&res);
+  return res;
+}
+
+inline string GetString(void){
+  char x[1000005];
+  scanf("%s",x); string s = x;
+  return s;
+}
+
+inline string uppercase(string s){
+  int n = SIZE(s); 
+  REP(i,n) if (s[i] >= 'a' && s[i] <= 'z') s[i] = s[i] - 'a' + 'A';
+  return s;
+}
+
+inline string lowercase(string s){
+  int n = SIZE(s); 
+  REP(i,n) if (s[i] >= 'A' && s[i] <= 'Z') s[i] = s[i] - 'A' + 'a';
+  return s;
+}
+
+inline void OPEN (string s) {
+  #ifndef TESTING
+  freopen ((s + ".in").c_str (), "r", stdin);
+  freopen ((s + ".out").c_str (), "w", stdout);
+  #endif
+}
+
+#ifdef TESTING
+int main() {}
+#endif
+
+//end of jonathanirvings' template v3.0.3 (BETA)
+
+int pre[100005];
+
 class Solution {
 public:
-    int maxFreeTime(int eventTime, int k, vector<int>& startTime, vector<int>& endTime) {
-        // vector<int> space;
-        // int val=0;
-        // for(int i=0;i<startTime.size();i++){
-        //     int diff=startTime[i]-val;
-        //     if(diff>0) space.push_back(diff);
-        //     val=endTime[i];
-        // }
-        // int diff=eventTime-val;
-        // if(diff>=0) space.push_back(diff);
-        // int a=space.size();
-        // if(a-k <=1) return accumulate(space.begin(),space.end(),0);
-        // int n=a-k;
-        // int l=0,r=0;
-        // int sum=0;
-        // while(r<n){
-        //     sum+=space[r];
-        //     r++;
-        // }
-        // int maxm=sum;
-        // while(r<a){
-        //     maxm=max(maxm,(sum-space[l++]+space[r++]));
-        // }
-        // return maxm;
-        startTime.push_back(eventTime);
-        endTime.push_back(eventTime);
-        int sum=0;
-        int i=0;
-        int diff=0;
-        while(i<k+1){
-            sum+=startTime[i]-diff;
-            diff=endTime[i];
-            i++;
-        }
-        int val=0;
-        int maxm=sum;
-        int j=0;
-        while(i<endTime.size()){
-            sum+=startTime[i]-diff;
-            diff=endTime[i];
-            sum-=startTime[j]-val;
-            val=endTime[j];
-            maxm=max(maxm,sum);
-            i++;
-            j++;
-        }
-        return maxm;
+  int maxFreeTime(int eventTime, int k, vector<int>& startTime, vector<int>& endTime) {
+    int now = 0;
+    int n = SIZE(startTime);
+    vi kosong;
+    REP(i,n)
+    {
+      kosong.pb(startTime[i] - now);
+      now = endTime[i];
     }
+    kosong.pb(eventTime - now);
+
+    int m = SIZE(kosong);
+    pre[0] = kosong[0];
+    FOR(i,1,m) pre[i] = pre[i-1] + kosong[i];
+
+    int risan = 0;
+    FOR(i,k,m) 
+    {
+      int a = i - k;
+      MAX(risan,pre[i] - ((a == 0) ? 0 : pre[a-1]));
+    }
+    return risan;
+  }
 };
