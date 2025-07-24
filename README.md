@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/2005arun/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
@@ -36,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/2005arun/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/2005arun/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/2005arun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
