@@ -18,6 +18,7 @@
 | [0518-coin-change-ii](https://github.com/2005arun/LeetCode/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/2005arun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0729-my-calendar-i](https://github.com/2005arun/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/2005arun/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0729-my-calendar-i](https://github.com/2005arun/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -280,6 +282,7 @@
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/2005arun/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/2005arun/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
@@ -294,9 +297,11 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/2005arun/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/2005arun/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
