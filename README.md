@@ -30,6 +30,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/2005arun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/2005arun/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/2005arun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/2005arun/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/2005arun/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -234,6 +235,7 @@
 | [1170-shortest-common-supersequence](https://github.com/2005arun/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/2005arun/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/2005arun/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/2005arun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/2005arun/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/2005arun/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Backtracking
