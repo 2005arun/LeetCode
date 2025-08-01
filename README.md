@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/2005arun/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/2005arun/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/2005arun/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/2005arun/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/2005arun/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -123,6 +124,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/2005arun/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/2005arun/LeetCode/tree/master/0135-candy) |
 | [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/2005arun/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/2005arun/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/2005arun/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/2005arun/LeetCode/tree/master/0070-climbing-stairs) |
@@ -264,6 +267,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/2005arun/LeetCode/tree/master/0044-wildcard-matching) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/2005arun/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
