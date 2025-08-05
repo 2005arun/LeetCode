@@ -26,14 +26,32 @@ public:
 
         vector<int> dp(n);
         int res=1;
+        vector<int> hash(n);
+        int lastind=0;
         for(int i=0;i<n;i++){
+            hash[i]=i;
+            int maxm=0;
             for(int j=0;j<i;j++){
                 if(nums[j]<nums[i] && dp[i]<1+dp[j]){
                     dp[i]=1+dp[j];
-                    res=max(res,1+dp[i]);
+                    hash[i]=j;
+                    maxm=max(res,1+dp[i]);
                 }
             }
+            if(maxm>res){
+                res=maxm;
+                lastind=i;
+            }
         }
+        vector<int> out;
+        // out.push_back(nums[lastind]);
+        while(hash[lastind]!=lastind){
+            out.push_back(nums[lastind]);
+            lastind=hash[lastind];
+        }
+        out.push_back(nums[lastind]);
+        reverse(out.begin(),out.end());
+        for(auto i:out) cout<<i<<" ";
         return res;
         // return dp[0][0];
     }
