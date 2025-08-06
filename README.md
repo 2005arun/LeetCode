@@ -27,6 +27,7 @@
 | [0518-coin-change-ii](https://github.com/2005arun/LeetCode/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/2005arun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/2005arun/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/2005arun/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/2005arun/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -258,6 +259,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/2005arun/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/2005arun/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/2005arun/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/2005arun/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/2005arun/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/2005arun/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
@@ -349,6 +351,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/2005arun/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/2005arun/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/2005arun/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -362,4 +365,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/2005arun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/2005arun/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
