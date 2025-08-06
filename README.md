@@ -55,6 +55,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/2005arun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2005arun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3427-special-array-ii](https://github.com/2005arun/LeetCode/tree/master/3427-special-array-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/2005arun/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/2005arun/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/2005arun/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -192,6 +193,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/2005arun/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3427-special-array-ii](https://github.com/2005arun/LeetCode/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/2005arun/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
+| [3427-special-array-ii](https://github.com/2005arun/LeetCode/tree/master/3427-special-array-ii) |
 ## Tree
 |  |
 | ------- |
