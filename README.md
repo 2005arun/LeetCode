@@ -87,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/2005arun/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/2005arun/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/2005arun/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
@@ -101,6 +102,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/2005arun/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/2005arun/LeetCode/tree/master/0013-roman-to-integer) |
 | [0454-4sum-ii](https://github.com/2005arun/LeetCode/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
@@ -119,6 +121,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/2005arun/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/2005arun/LeetCode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/2005arun/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/2005arun/LeetCode/tree/master/0044-wildcard-matching) |
