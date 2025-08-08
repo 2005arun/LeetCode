@@ -41,6 +41,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/2005arun/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/2005arun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1962-single-threaded-cpu](https://github.com/2005arun/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/2005arun/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/2005arun/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -81,6 +82,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/2005arun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1962-single-threaded-cpu](https://github.com/2005arun/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/2005arun/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/2005arun/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/2005arun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -230,6 +232,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1962-single-threaded-cpu](https://github.com/2005arun/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/2005arun/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
