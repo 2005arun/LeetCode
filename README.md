@@ -95,6 +95,7 @@
 | [0062-unique-paths](https://github.com/2005arun/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/2005arun/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/2005arun/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/2005arun/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2005arun/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/2005arun/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/2005arun/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/2005arun/LeetCode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/2005arun/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/2005arun/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/2005arun/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -322,6 +324,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/2005arun/LeetCode/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/2005arun/LeetCode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/2005arun/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
