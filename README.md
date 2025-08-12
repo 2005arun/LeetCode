@@ -290,6 +290,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/2005arun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/2005arun/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/2005arun/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/2005arun/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/2005arun/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
