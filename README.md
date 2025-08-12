@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/2005arun/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/2005arun/LeetCode/tree/master/0118-pascals-triangle) |
@@ -197,6 +198,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/2005arun/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -262,6 +264,7 @@
 | [0044-wildcard-matching](https://github.com/2005arun/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/2005arun/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/2005arun/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/2005arun/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/2005arun/LeetCode/tree/master/0115-distinct-subsequences) |
