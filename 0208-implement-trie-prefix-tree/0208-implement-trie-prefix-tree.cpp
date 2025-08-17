@@ -1,4 +1,5 @@
-struct Node{
+class Node{
+    public:
     vector<Node*> child;
     bool flag;
 
