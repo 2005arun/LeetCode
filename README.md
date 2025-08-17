@@ -36,6 +36,7 @@
 | [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/2005arun/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1121-partition-array-for-maximum-sum](https://github.com/2005arun/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/2005arun/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/2005arun/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -295,6 +296,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/2005arun/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/2005arun/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/2005arun/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1121-partition-array-for-maximum-sum](https://github.com/2005arun/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/2005arun/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/2005arun/LeetCode/tree/master/1250-longest-common-subsequence) |
