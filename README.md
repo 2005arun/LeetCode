@@ -39,6 +39,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/2005arun/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/2005arun/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/2005arun/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/2005arun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/2005arun/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Binary Search
@@ -300,6 +302,7 @@
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/2005arun/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/2005arun/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/2005arun/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/2005arun/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/2005arun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
