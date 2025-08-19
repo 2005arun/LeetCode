@@ -69,6 +69,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/2005arun/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/2005arun/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/2005arun/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/2005arun/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/2005arun/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/2005arun/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/2005arun/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/2005arun/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Number Theory
 |  |
 | ------- |
