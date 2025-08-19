@@ -30,8 +30,8 @@ public:
         for(int i=0;i<n;i++){
             if(i) dp[i]=dp[i-1];
             int r=prefix[i]%k;
-            if(r<0) r+=k;
-            if(best[r]!=-LLONG_MAX) dp[i]=max(dp[i],prefix[i]+best[r]);
+            // if(r<0) r+=k;
+            dp[i]=max(dp[i],prefix[i]+best[r]);
             best[r]=max(best[r],dp[i]-prefix[i]);
         }
         long long tot=prefix[n-1];
