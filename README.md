@@ -156,6 +156,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/2005arun/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/2005arun/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-remove-outermost-parentheses](https://github.com/2005arun/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/2005arun/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/2005arun/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -258,6 +259,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/2005arun/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1078-remove-outermost-parentheses](https://github.com/2005arun/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2005arun/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
