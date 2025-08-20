@@ -8,28 +8,16 @@ public:
         for(int i=0;i<matrix[0].size();i++){
             vec[0][i]=matrix[0][i];
         }
-        // for(int i=0;i<matrix.size();i++){
-        //     for(int j=0;j<matrix[0].size();j++){
-        //         cout<<vec[i][j]<<" "; 
-        //     }
-        //     cout<<endl;
-        // }
         for(int i=1;i<matrix.size();i++){
             for(int j=1;j<matrix[0].size();j++){
                 if(matrix[i][j]==0) {
                     vec[i][j]=0;
                     continue;
                 }
-                int minim=min(vec[i-1][j-1],min(vec[i-1][j],vec[i][j-1]));
+                int minim=min({vec[i-1][j-1],vec[i-1][j],vec[i][j-1]});
                 vec[i][j]=minim+1;
             }
         }
-        // for(int i=0;i<matrix.size();i++){
-        //     for(int j=0;j<matrix[0].size();j++){
-        //         cout<<vec[i][j]<<" "; 
-        //     }
-        //     cout<<endl;
-        // }
         int sum=0;
         for(int i=0;i<matrix.size();i++){
             for(int j=0;j<matrix[0].size();j++){
