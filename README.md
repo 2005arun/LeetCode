@@ -11,6 +11,7 @@
 | [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/2005arun/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/2005arun/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/2005arun/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2005arun/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/2005arun/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -254,6 +256,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/2005arun/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2005arun/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -285,6 +288,7 @@
 | [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/2005arun/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/2005arun/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/2005arun/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/2005arun/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/2005arun/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/2005arun/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -426,4 +430,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/2005arun/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/2005arun/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
