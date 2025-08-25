@@ -27,6 +27,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/2005arun/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/2005arun/LeetCode/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/2005arun/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/2005arun/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/2005arun/LeetCode/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/2005arun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -221,6 +222,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/2005arun/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0498-diagonal-traverse](https://github.com/2005arun/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -349,6 +351,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/2005arun/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/2005arun/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/2005arun/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/2005arun/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
