@@ -67,6 +67,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/2005arun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/2005arun/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2005arun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/2005arun/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3427-special-array-ii](https://github.com/2005arun/LeetCode/tree/master/3427-special-array-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/2005arun/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
