@@ -5,7 +5,7 @@ public:
         int ind=-1;
         for(int i=0;i<dimensions.size();i++){
             double res=sqrt((dimensions[i][0]*dimensions[i][0])+(dimensions[i][1]*dimensions[i][1]));
-            cout<<res<<" ";
+            // cout<<res<<" ";
             if(res>maxm){
                 ind=i;
                 maxm=res;
