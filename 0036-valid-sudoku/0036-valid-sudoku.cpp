@@ -2,10 +2,10 @@ class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
         for (int i = 0; i < 9; i++) {
-            vector<int> row(9, 0), col(9, 0), box(9, 0);
+            vector<int> row(10, 0), col(9, 0), box(9, 0);
             for (int j = 0; j < 9; j++) {
                 if (board[i][j] != '.') {
-                    int numRow = board[i][j] - '1';
+                    int numRow = board[i][j]-'0';
                     if (row[numRow]++) return false;  
                 }
                 if (board[j][i] != '.') {
