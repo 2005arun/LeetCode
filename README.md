@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/2005arun/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/2005arun/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/2005arun/LeetCode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/2005arun/LeetCode/tree/master/0066-plus-one) |
@@ -134,6 +135,7 @@
 | [0012-integer-to-roman](https://github.com/2005arun/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/2005arun/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/2005arun/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/2005arun/LeetCode/tree/master/0037-sudoku-solver) |
 | [0208-implement-trie-prefix-tree](https://github.com/2005arun/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0454-4sum-ii](https://github.com/2005arun/LeetCode/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/2005arun/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/2005arun/LeetCode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/2005arun/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/2005arun/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/2005arun/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -345,6 +348,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/2005arun/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/2005arun/LeetCode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/2005arun/LeetCode/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/2005arun/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
