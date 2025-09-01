@@ -52,6 +52,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/2005arun/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/2005arun/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/2005arun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1917-maximum-average-pass-ratio](https://github.com/2005arun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/2005arun/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/2005arun/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/2005arun/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -197,6 +198,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/2005arun/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/2005arun/LeetCode/tree/master/1448-maximum-69-number) |
 | [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
+| [1917-maximum-average-pass-ratio](https://github.com/2005arun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/2005arun/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -284,6 +286,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/2005arun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/2005arun/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/2005arun/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
