@@ -12,7 +12,18 @@ public:
         return dp[days]=tot;
     }
     int peopleAwareOfSecret(int n, int delay, int forget) {
-        dp.assign(n+1,-1);
-        return recur(1,n,delay,forget);
+        // dp.assign(n+1,-1);
+        // return recur(1,n,delay,forget);
+
+        dp.assign(n+1,0);
+        for(int days=n;days>=1;days--){
+            int tot=(days+forget>n);
+            for(int i=delay;i<forget;i++){
+                if(days+i>n) break;
+                tot=(tot+dp[days+i])%mod;
+            }
+            dp[days]=tot;
+        }
+        return dp[1];
     }
 };
