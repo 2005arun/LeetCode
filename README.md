@@ -48,6 +48,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/2005arun/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/2005arun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/2005arun/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/2005arun/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/2005arun/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -103,6 +104,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/2005arun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/2005arun/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/2005arun/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/2005arun/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/2005arun/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1962-single-threaded-cpu](https://github.com/2005arun/LeetCode/tree/master/1962-single-threaded-cpu) |
@@ -213,6 +215,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/2005arun/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/2005arun/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/2005arun/LeetCode/tree/master/1448-maximum-69-number) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/2005arun/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [1917-maximum-average-pass-ratio](https://github.com/2005arun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
