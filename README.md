@@ -72,6 +72,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/2005arun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/2005arun/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2005arun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/2005arun/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/2005arun/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3427-special-array-ii](https://github.com/2005arun/LeetCode/tree/master/3427-special-array-ii) |
@@ -161,6 +162,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2476-check-distances-between-same-letters](https://github.com/2005arun/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2005arun/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/2005arun/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2005arun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/2005arun/LeetCode/tree/master/3827-implement-router) |
@@ -236,6 +238,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/2005arun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/2005arun/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2005arun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/2005arun/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/2005arun/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
