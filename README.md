@@ -16,6 +16,7 @@
 | [0085-maximal-rectangle](https://github.com/2005arun/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/2005arun/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/2005arun/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/2005arun/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2005arun/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/2005arun/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/2005arun/LeetCode/tree/master/0135-candy) |
@@ -348,6 +349,7 @@
 | [0115-distinct-subsequences](https://github.com/2005arun/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/2005arun/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/2005arun/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/2005arun/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2005arun/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/2005arun/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/2005arun/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
