@@ -40,6 +40,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/2005arun/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/2005arun/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0830-largest-triangle-area](https://github.com/2005arun/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/2005arun/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -134,6 +135,7 @@
 | [0326-power-of-three](https://github.com/2005arun/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2005arun/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/2005arun/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0830-largest-triangle-area](https://github.com/2005arun/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/2005arun/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2005arun/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/2005arun/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -528,4 +530,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/2005arun/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/2005arun/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
