@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/2005arun/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/2005arun/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/2005arun/LeetCode/tree/master/0036-valid-sudoku) |
@@ -93,6 +94,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/2005arun/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/2005arun/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/2005arun/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/2005arun/LeetCode/tree/master/0075-sort-colors) |
@@ -225,6 +227,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/2005arun/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/2005arun/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/2005arun/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2005arun/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
