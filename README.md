@@ -211,6 +211,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/2005arun/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/2005arun/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/2005arun/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2005arun/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -333,6 +334,7 @@
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/2005arun/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2005arun/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2005arun/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
