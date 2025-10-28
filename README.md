@@ -166,6 +166,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/2005arun/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/2005arun/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0454-4sum-ii](https://github.com/2005arun/LeetCode/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/2005arun/LeetCode/tree/master/0460-lfu-cache) |
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/2005arun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/2005arun/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -490,6 +491,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/2005arun/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0460-lfu-cache](https://github.com/2005arun/LeetCode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/2005arun/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/2005arun/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/2005arun/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -499,6 +501,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/2005arun/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0460-lfu-cache](https://github.com/2005arun/LeetCode/tree/master/0460-lfu-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2005arun/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Combinatorics
 |  |
@@ -551,4 +554,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/2005arun/LeetCode/tree/master/0830-largest-triangle-area) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/2005arun/LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
