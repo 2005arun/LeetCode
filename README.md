@@ -185,6 +185,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2005arun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/2005arun/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/2005arun/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/2005arun/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/2005arun/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/2005arun/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -327,6 +328,7 @@
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/2005arun/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/2005arun/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Union Find
 |  |
 | ------- |
@@ -412,6 +414,7 @@
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/2005arun/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/2005arun/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/2005arun/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/2005arun/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3938-twisted-mirror-path-count](https://github.com/2005arun/LeetCode/tree/master/3938-twisted-mirror-path-count) |
 ## Backtracking
 |  |
