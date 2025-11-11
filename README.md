@@ -30,6 +30,7 @@
 | [0368-largest-divisible-subset](https://github.com/2005arun/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/2005arun/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/2005arun/LeetCode/tree/master/0454-4sum-ii) |
+| [0474-ones-and-zeroes](https://github.com/2005arun/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/2005arun/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/2005arun/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/2005arun/LeetCode/tree/master/0518-coin-change-ii) |
@@ -204,6 +205,7 @@
 | [0165-compare-version-numbers](https://github.com/2005arun/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/2005arun/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/2005arun/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0474-ones-and-zeroes](https://github.com/2005arun/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/2005arun/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/2005arun/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
@@ -390,6 +392,7 @@
 | [0322-coin-change](https://github.com/2005arun/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/2005arun/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/2005arun/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/2005arun/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/2005arun/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/2005arun/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/2005arun/LeetCode/tree/master/0518-coin-change-ii) |
