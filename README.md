@@ -77,6 +77,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/2005arun/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/2005arun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/2005arun/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/2005arun/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2005arun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2005arun/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/2005arun/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -151,6 +152,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/2005arun/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/2005arun/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/2005arun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/2005arun/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/2005arun/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/2005arun/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/2005arun/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -445,6 +447,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/2005arun/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/2005arun/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/2005arun/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
