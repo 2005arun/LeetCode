@@ -232,6 +232,7 @@
 | [3396-valid-word](https://github.com/2005arun/LeetCode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/2005arun/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/2005arun/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/2005arun/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/2005arun/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2005arun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -262,6 +263,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/2005arun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2005arun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/2005arun/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/2005arun/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/2005arun/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
@@ -273,6 +275,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2005arun/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/2005arun/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2005arun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/2005arun/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/2005arun/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
