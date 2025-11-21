@@ -293,6 +293,7 @@
 | [0322-coin-change](https://github.com/2005arun/LeetCode/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/2005arun/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/2005arun/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/2005arun/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/2005arun/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/2005arun/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Union Find
 |  |
@@ -374,6 +376,7 @@
 | [0386-lexicographical-numbers](https://github.com/2005arun/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/2005arun/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/2005arun/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Trie
 |  |
 | ------- |
@@ -507,6 +510,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/2005arun/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/2005arun/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
