@@ -47,6 +47,7 @@
 | [0878-shifting-letters](https://github.com/2005arun/LeetCode/tree/master/0878-shifting-letters) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/2005arun/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/2005arun/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1121-partition-array-for-maximum-sum](https://github.com/2005arun/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/2005arun/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -481,6 +482,7 @@
 | [0231-power-of-two](https://github.com/2005arun/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/2005arun/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/2005arun/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/2005arun/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/2005arun/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/2005arun/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/2005arun/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
