@@ -65,6 +65,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/2005arun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/2005arun/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/2005arun/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/2005arun/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/2005arun/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/2005arun/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -264,6 +265,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/2005arun/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [1917-maximum-average-pass-ratio](https://github.com/2005arun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/2005arun/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/2005arun/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
