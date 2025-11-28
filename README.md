@@ -380,6 +380,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/2005arun/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/2005arun/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/2005arun/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -519,6 +520,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/2005arun/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/2005arun/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/2005arun/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search Tree
@@ -529,6 +531,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/2005arun/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/2005arun/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Design
 |  |
