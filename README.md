@@ -182,6 +182,7 @@
 | [0575-distribute-candies](https://github.com/2005arun/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/2005arun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/2005arun/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/2005arun/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1129-longest-string-chain](https://github.com/2005arun/LeetCode/tree/master/1129-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/2005arun/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/2005arun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -298,6 +299,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/2005arun/LeetCode/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/2005arun/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/2005arun/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/2005arun/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/2005arun/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Matrix
@@ -383,6 +385,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/2005arun/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/2005arun/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/2005arun/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/2005arun/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/2005arun/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Trie
@@ -522,6 +525,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/2005arun/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/2005arun/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/2005arun/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/2005arun/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search Tree
 |  |
@@ -533,6 +537,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/2005arun/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/2005arun/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/2005arun/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/2005arun/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Design
 |  |
 | ------- |
