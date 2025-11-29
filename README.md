@@ -92,6 +92,7 @@
 | [3427-special-array-ii](https://github.com/2005arun/LeetCode/tree/master/3427-special-array-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/2005arun/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/2005arun/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/2005arun/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/2005arun/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/2005arun/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/2005arun/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -164,6 +165,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/2005arun/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/2005arun/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/2005arun/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/2005arun/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/2005arun/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/2005arun/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/2005arun/LeetCode/tree/master/3830-find-closest-person) |
