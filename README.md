@@ -238,6 +238,7 @@
 | [1804-maximum-binary-string-after-change](https://github.com/2005arun/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/2005arun/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2211-count-collisions-on-a-road](https://github.com/2005arun/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2005arun/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/2005arun/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/2005arun/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -370,6 +371,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/2005arun/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2005arun/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/2005arun/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2005arun/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/2005arun/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -468,6 +470,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/2005arun/LeetCode/tree/master/0498-diagonal-traverse) |
+| [2211-count-collisions-on-a-road](https://github.com/2005arun/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/2005arun/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/2005arun/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/2005arun/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
