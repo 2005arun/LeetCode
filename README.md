@@ -90,6 +90,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/2005arun/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/2005arun/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3427-special-array-ii](https://github.com/2005arun/LeetCode/tree/master/3427-special-array-ii) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/2005arun/LeetCode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/2005arun/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/2005arun/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/2005arun/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -198,6 +199,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/2005arun/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2005arun/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/2005arun/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/2005arun/LeetCode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/2005arun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/2005arun/LeetCode/tree/master/3827-implement-router) |
@@ -280,6 +282,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2005arun/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/2005arun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2005arun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/2005arun/LeetCode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/2005arun/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/2005arun/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/2005arun/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -351,6 +354,7 @@
 | [0900-reordered-power-of-2](https://github.com/2005arun/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/2005arun/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/2005arun/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/2005arun/LeetCode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/2005arun/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/2005arun/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Graph
@@ -448,6 +452,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/2005arun/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/2005arun/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/2005arun/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/2005arun/LeetCode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/2005arun/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/2005arun/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/2005arun/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
@@ -524,6 +529,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/2005arun/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/2005arun/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/2005arun/LeetCode/tree/master/3427-special-array-ii) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/2005arun/LeetCode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Tree
 |  |
 | ------- |
