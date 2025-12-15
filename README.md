@@ -66,6 +66,7 @@
 | [1962-single-threaded-cpu](https://github.com/2005arun/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/2005arun/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/2005arun/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/2005arun/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/2005arun/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/2005arun/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/2005arun/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -159,6 +160,7 @@
 | [1448-maximum-69-number](https://github.com/2005arun/LeetCode/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/2005arun/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/2005arun/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/2005arun/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/2005arun/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/2005arun/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/2005arun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -447,6 +449,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/2005arun/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/2005arun/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/2005arun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/2005arun/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/2005arun/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/2005arun/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/2005arun/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
